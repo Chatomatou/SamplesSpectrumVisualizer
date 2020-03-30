@@ -19,4 +19,4 @@ Le logicel, permet de visualiser le spectre après conversion analogique vers nu
 
 # Screenshot 
 ![SampleSpectrumVisualizer Screen](https://nsa40.casimages.com/img/2020/03/30/200330033301834928.png)
-![Application](https://nsa40.casimages.com/img/2020/03/30/mini_200330033301834928.png)
+ 
