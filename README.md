@@ -1,5 +1,5 @@
 # SamplesSpectrumVisualizer
-C++ / Qt / GUI / Samples Visualizer
+C++ / Qt / SDL / GUI / Samples Visualizer
 
 # Explication
 
